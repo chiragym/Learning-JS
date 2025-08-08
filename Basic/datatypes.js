@@ -5,6 +5,6 @@
 //string
 //boolean => trur or falswe
 //null => standalone value (null's datatype is object)
-//undefined 
+//undefined (undefined's datatype is undefined)
 //symbol => unique
  console.log(typeof "noob") 
