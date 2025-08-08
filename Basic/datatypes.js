@@ -4,8 +4,7 @@
 //bigint => when want to use large numbers
 //string
 //boolean => trur or falswe
-//null => standalone value
+//null => standalone value (null's datatype is object)
 //undefined 
 //symbol => unique
-
- console.log(3+3) 
+ console.log(typeof "noob") 
