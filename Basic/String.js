@@ -23,8 +23,3 @@ console.log(url.replace('%2o', '-'));
 console.log(url.includes('chirag'))
 
 console.log(gameNam.split('-'));
-
- 
- 
- 
- 
