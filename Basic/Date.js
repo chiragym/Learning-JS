@@ -34,10 +34,3 @@ let newD = new Date()
 newD.toLocaleDateString('default',{
     weekday:"long"
 })
-
-
-
-
-
-
-
