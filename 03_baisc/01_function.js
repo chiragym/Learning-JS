@@ -41,11 +41,3 @@ function returnsecondevalue(getarr){
     return getarr[1]
 }
 console.log(returnsecondevalue(myNewarr));
-
-
-
-
-
-
-
- 
